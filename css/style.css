@@ -1,0 +1,10 @@
+h1, p {
+  text-align: center;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: #8A0C22;
+}
+img {
+  width: 30%;
+  padding: 0px 670px 30px;
+}
